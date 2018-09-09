@@ -1,0 +1,26 @@
+{
+    "name": "Marvel for Sketch",
+    "description": "Send artboards to Marvel",
+    "author": "Marvel",
+    "homepage": "https://marvelapp.com/prototype-with-sketch/",
+    "version": "7.5",
+    "identifier": "com.marvelprototyping.marvelsketchplugin",
+    "compatibleVersion": 3,
+    "bundleVersion": "2683",
+    "commands" : [
+                  {
+                    "script" : "load.js",
+                    "handlers" : {
+                        "actions" : {
+                            "Startup" : "loadMarvel",
+                            "OpenDocument" : "loadMarvel",
+                        }
+                    },
+                  }
+                ],
+    "menu" : {
+        "title": "Marvel",
+        "isRoot": true,
+        "items": []
+    }
+}

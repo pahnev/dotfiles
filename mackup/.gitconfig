@@ -1,0 +1,32 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Kirill Pahnev
+	email = kirill.pahnev@gmail.com
+[merge "/mergepbx-master/mergepbx"]
+        name = XCode project files merger
+        driver = mergepbx %O %A %B
+[merge]
+	conflictstyle = diff3
+[core]
+	excludesfile = /Users/kirill/.gitignore_global
+[difftool "sourcetree"]
+	cmd = /Applications/DiffMerge.app/Contents/MacOS/DiffMerge --nosplash \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[color]
+	ui = true
+[commit]
+	template = /Users/kirill/.stCommitMsg
+	gpgSign = false
+[gpg]
+	program = /usr/local/bin/gpg
+[credential]
+  helper = osxkeychain
+[credential "https://github.com"]
+  username = pahnev

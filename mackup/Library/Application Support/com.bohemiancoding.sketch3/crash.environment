@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.sketchapp.plugins.enabled</key>
+	<string>[com.invision.panels(1.4.0), com.lalomrtnz.sketch.shareable-color-palette(2.0), com.utom.measure(2.7.5), me.dutour.mathieu.git-plugin(0.3.4), io.zeplin.sketch-plugin(1.4.1), io.kolo.sketch.artboard-tools(3.50.0), de.matzemachtdesign.sketch.imagesreinvented(1.0), com.marvelprototyping.marvelsketchplugin(7.5), com.bomberstudios.sketch.commands(3.4.4), com.betterthantomorrow.sketch.distributor(1.2.2), com.mfouquet.sketch.stark(1.6)]</string>
+	<key>disabled</key>
+	<string>[com.sketchrunner.Runner(0.7.1)]</string>
+</dict>
+</plist>

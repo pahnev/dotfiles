@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>finish SelectionChanged {
+    document = "&lt;MSDocument: 0x7fa14a1f5160&gt;";
+    newSelection =     (
+        "&lt;MSBitmapLayer: 0x7fa14f63d580&gt; App Icon - New (AAEA7378-65C6-453F-AF3F-CDA1BAB7C649)"
+    );
+    oldSelection =     (
+    );
+}</string>
+	<string>begin AddExportFormat {
+    action = "&lt;MSAddExportFormatAction: 0x608001668300&gt;";
+    document = "&lt;MSDocument: 0x7fa14a1f5160&gt;";
+}</string>
+	<string>finish AddExportFormat {
+    action = "&lt;MSAddExportFormatAction: 0x608001668300&gt;";
+    document = "&lt;MSDocument: 0x7fa14a1f5160&gt;";
+}</string>
+	<string>instant CloseDocument {
+    document = "&lt;MSDocument: 0x7fa14a1f5160&gt;";
+    selection =     (
+        "&lt;MSBitmapLayer: 0x7fa14f63d580&gt; App Icon - New (AAEA7378-65C6-453F-AF3F-CDA1BAB7C649)"
+    );
+}</string>
+	<string>begin SelectionChanged {
+    document = "&lt;MSDocument: 0x7fa14a238fd0&gt;";
+    newSelection =     (
+        "&lt;MSSymbolInstance: 0x7fa14a2f7080&gt; Cast table (C879314A-DAC8-486E-B7B9-4BA2B47EA872)"
+    );
+    oldSelection =     (
+    );
+}</string>
+	<string>finish SelectionChanged {
+    document = "&lt;MSDocument: 0x7fa14a238fd0&gt;";
+    newSelection =     (
+        "&lt;MSSymbolInstance: 0x7fa14a2f7080&gt; Cast table (C879314A-DAC8-486E-B7B9-4BA2B47EA872)"
+    );
+    oldSelection =     (
+    );
+}</string>
+	<string>begin ArtboardChanged {
+    document = "&lt;MSDocument: 0x7fa14a238fd0&gt;";
+    newArtboard = "&lt;MSArtboardGroup: 0x7fa14a2a1530&gt; iPhone 7 Copy 2 (C33149F4-4733-4CCC-BAA4-A18766818F02)";
+    oldArtboard = "&lt;MSArtboardGroup: 0x7fa14a2a13e0&gt; iPhone 7 Copy (B4B7B310-DE6A-4E02-BFB0-186DBF32B806)";
+}</string>
+	<string>finish ArtboardChanged {
+    document = "&lt;MSDocument: 0x7fa14a238fd0&gt;";
+    newArtboard = "&lt;MSArtboardGroup: 0x7fa14a2a1530&gt; iPhone 7 Copy 2 (C33149F4-4733-4CCC-BAA4-A18766818F02)";
+    oldArtboard = "&lt;MSArtboardGroup: 0x7fa14a2a13e0&gt; iPhone 7 Copy (B4B7B310-DE6A-4E02-BFB0-186DBF32B806)";
+}</string>
+	<string>begin SelectionChanged {
+    document = "&lt;MSDocument: 0x7fa14a238fd0&gt;";
+    newSelection =     (
+    );
+    oldSelection =     (
+        "&lt;MSSymbolInstance: 0x7fa14a2f7080&gt; Cast table (C879314A-DAC8-486E-B7B9-4BA2B47EA872)"
+    );
+}</string>
+	<string>finish SelectionChanged {
+    document = "&lt;MSDocument: 0x7fa14a238fd0&gt;";
+    newSelection =     (
+    );
+    oldSelection =     (
+        "&lt;MSSymbolInstance: 0x7fa14a2f7080&gt; Cast table (C879314A-DAC8-486E-B7B9-4BA2B47EA872)"
+    );
+}</string>
+	<string>instant CloseDocument {
+    document = "&lt;MSDocument: 0x7fa14a238fd0&gt;";
+    selection =     (
+    );
+}</string>
+</array>
+</plist>

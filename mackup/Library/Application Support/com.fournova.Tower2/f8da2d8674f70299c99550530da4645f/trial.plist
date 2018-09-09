@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>product</key>
+    <string>tower2-mac</string>
+    <key>version</key>
+    <string>2.6</string>
+    <key>code</key>
+    <string>6b10f3e880ece68fe92291872dbeafa7</string>
+    <key>expires</key>
+    <string>2018-10-05</string>
+    <key>name</key>
+    <string>d5c4b97a740db3bf890c3c5704f6209d</string>
+    <key>machine</key>
+    <string>f8da2d8674f70299c99550530da4645f</string>
+    <key>type</key>
+    <string>DEMO</string>
+</dict>
+</plist>

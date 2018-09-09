@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		".jshintrc",
+		"Fastfile",
+		".jscsrc",
+		".eslintrc",
+		".csslintrc",
+		".bowerrc",
+		"geojson"
+	]
+}

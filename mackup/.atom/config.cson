@@ -1,0 +1,45 @@
+"*":
+  core:
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".flowconfig"
+      ]
+      "source.json": [
+        ".arcconfig"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
+    disabledPackages: [
+      "nuclide"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontFamily: "SFMono-Regular"
+    fontSize: 11
+    invisibles: {}
+    preferredLineLength: 120
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "4c857ce5-5d73-bbc6-ecc9-e80697b8c0e5"
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  nuclide:
+    "nuclide-home":
+      showHome: false
+  "one-dark-ui":
+    layoutMode: "Compact"
+    tabSizing: "Minimum"
+  wakatime:
+    apikey: "Saved in your ~/.wakatime.cfg file"
+  "wakatime-hidden":
+    lastInit: 1493926244
+  welcome:
+    showOnStartup: false

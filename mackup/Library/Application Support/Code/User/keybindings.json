@@ -1,0 +1,28 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+
+   { "key": "cmd+shift+7",                 "command": "editor.action.commentLine",
+                                     "when": "editorTextFocus" },
+    { "key": "ctrl+i",                 "command": "editor.action.indentLines",
+                                    "when": "editorTextFocus"
+                                },
+                                {
+                                    "key": "cmd+d",
+                                    "command": "lafe.duplicateCode"
+                                },
+                                {
+                                    "key": "ctrl+k d",
+                                    "command": "-lafe.duplicateCode"
+                                },
+                                {
+                                    "key": "ctrl+i",
+                                    "command": "editor.action.formatDocument",
+                                    "when": "editorTextFocus && !editorReadonly"
+                                },
+                                {
+                                    "key": "shift+alt+f",
+                                    "command": "-editor.action.formatDocument",
+                                    "when": "editorTextFocus && !editorReadonly"
+                                }
+                            ]
+                            

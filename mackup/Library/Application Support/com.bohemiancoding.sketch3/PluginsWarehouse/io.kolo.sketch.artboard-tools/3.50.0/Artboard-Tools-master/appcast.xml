@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Artboard Tools</title>
+    <link>https://raw.githubusercontent.com/frankko/Artboard-Tools/master/appcast.xml</link>
+    <description>Plugins for arranging artboards and navigating between artboards.</description>
+    <language>en</language>
+      <item>
+        <title>Version 3.50.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Updates for Sketch 50</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/frankko/Artboard-Tools/archive/master.zip" sparkle:version="3.50.0" />
+      </item>
+      <item>
+        <title>Version 3.48.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>New command: Group Artboards (Columns)</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/frankko/Artboard-Tools/archive/cd863272c2718f37955b81445be47a6444524018.zip" sparkle:version="3.48.0" />
+      </item>
+      <item>
+        <title>Version 2.48.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixes for Sketch 48</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/frankko/Artboard-Tools/archive/7d1c2b5aed5174a963cb7d818f1098ec789823d3.zip" sparkle:version="2.48.1" />
+      </item>
+      <item>
+        <title>Version 2.43.8</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>New command: Reverse Artboards Order. See README</li>
+              <li>Grouped artboards now start at 0,0 (fixes #15)</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/frankko/Artboard-Tools/archive/28a25db55971356dbe4e664709d4af6452a7f87e.zip" sparkle:version="2.43.8" />
+      </item>
+      <item>
+        <title>Version 2.43.7</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Bug fix relating to the new advanced option to arrange/group layers from top-to-bottom.</li>
+              <li>Select Prev/Next Artboard commands now honor that new advanced option.</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/frankko/Artboard-Tools/archive/2743445152befaab2bfa18e045f384db0a2e023f.zip" sparkle:version="2.43.7" />
+      </item>
+      <item>
+        <title>Version 2.43.6</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Add advanced option to arrange/group layers from top-to-bottom. See README.</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/frankko/Artboard-Tools/archive/5bfdd47cb1f1846de43a4574ef5b5c4976ac6fec.zip" sparkle:version="2.43.6" />
+      </item>
+      <item>
+        <title>Version 2.43.5</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Support for Sketch 45's plugin auto-updating.</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/frankko/Artboard-Tools/archive/345577d09cb6216ffb0d89bb14560e48a3a77705.zip" sparkle:version="2.43.5" />
+      </item>
+      <item>
+        <title>Version 2.43.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Bug fix for Sketch 45.</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/frankko/Artboard-Tools/archive/8b4adaeff0058aa7aaf2865ffe0ba586636dccf8.zip" sparkle:version="2.43.2" />
+      </item>
+ </channel>
+</rss>

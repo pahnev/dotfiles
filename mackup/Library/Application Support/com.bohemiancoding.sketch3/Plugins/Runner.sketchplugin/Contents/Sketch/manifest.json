@@ -1,0 +1,25 @@
+{
+  "author" : "Roy, Nikolas, Sergi, Florian, Moriah, Aby",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "cmd '",
+      "name" : "Runner",
+      "identifier" : "runner"
+    }
+  ],
+  "menu": {
+    "title" : "Runner",
+    "isRoot" : true,
+    "items": [
+      "runner"
+    ]
+  },
+  "identifier" : "com.sketchrunner.Runner",
+  "version" : "0.7.1",
+  "description" : "Speed up your Sketch workflow",
+  "authorEmail" : "hello@sketchrunner.com",
+  "name" : "Runner",
+  "disableCocoaScriptPreprocessor" : true
+}

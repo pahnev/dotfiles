@@ -1,0 +1,80 @@
+{
+  "showedChangelogVersion" : "1.0.0",
+  "photoActions" : [
+    {
+      "index" : 0,
+      "title" : "Beach",
+      "icon" : "sun",
+      "mode" : "unsplash",
+      "category" : "Beach"
+    },
+    {
+      "index" : 1,
+      "title" : "Kids",
+      "icon" : "smile",
+      "mode" : "unsplash",
+      "category" : "Kids"
+    },
+    {
+      "index" : 2,
+      "title" : "Nature",
+      "icon" : "leaf",
+      "mode" : "unsplash",
+      "category" : "Nature"
+    },
+    {
+      "index" : 3,
+      "title" : "People",
+      "icon" : "boat",
+      "category" : "People",
+      "mode" : "unsplash"
+    },
+    {
+      "index" : 4,
+      "title" : "Portrait",
+      "icon" : "boat",
+      "category" : "Portrait",
+      "mode" : "unsplash"
+    }
+  ],
+  "activeCategory" : 1,
+  "hasMigrated" : true,
+  "typeActions" : [
+    {
+      "id" : "names",
+      "index" : 0
+    },
+    {
+      "id" : "headline",
+      "index" : 1
+    },
+    {
+      "id" : "article",
+      "index" : 2
+    },
+    {
+      "id" : "date",
+      "index" : 3
+    },
+    {
+      "id" : "currency",
+      "index" : 4
+    },
+    {
+      "id" : "email",
+      "index" : 5
+    },
+    {
+      "id" : "country",
+      "index" : 6
+    },
+    {
+      "id" : "city",
+      "index" : 7
+    },
+    {
+      "id" : "address",
+      "index" : 8
+    }
+  ]
+}

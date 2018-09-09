@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/peacocks-in-space.tmTheme",
+	"font_face": "SF Mono",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_accent_red": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_separator": true,
+	"theme": "Default.sublime-theme"
+}

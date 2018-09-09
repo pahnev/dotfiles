@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>performance</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>  func printTimeElapsedWhenRunningCode(title:String, operation:()-&gt;()) {
+    let startTime = CFAbsoluteTimeGetCurrent()
+    operation()
+    let timeElapsed = CFAbsoluteTimeGetCurrent() - startTime
+    print("Time elapsed for \(title): \(timeElapsed) s")
+  }
+
+  func timeElapsedInSecondsWhenRunningCode(operation:()-&gt;()) -&gt; Double {
+    let startTime = CFAbsoluteTimeGetCurrent()
+    operation()
+    let timeElapsed = CFAbsoluteTimeGetCurrent() - startTime
+    return Double(timeElapsed)
+  }
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FD714B7F-4941-4D40-B201-75EF293E8B65</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Performance</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

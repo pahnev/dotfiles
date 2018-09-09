@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>license</key>
+	<string>6da950148cd56cdf402733dc54ad3f9f</string>
+	<key>machine</key>
+	<string>53cdc8fca92b37b6b8fa7843a609a88b</string>
+	<key>masked</key>
+	<string>НОМЕРОК-БЛАТНОЙ-ТРИ-СЕМЕРОЧКИ</string>
+	<key>name</key>
+	<string>kirill</string>
+	<key>product</key>
+	<string>tower2-mac</string>
+	<key>type</key>
+	<string>SINGLE</string>
+	<key>version</key>
+	<string>2.0</string>
+</dict>
+</plist>
