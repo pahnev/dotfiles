@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.statusBar.visible": true,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "SF Mono",
+    "editor.fontSize": 11,
+    "workbench.iconTheme": "material-icon-theme"
+}
